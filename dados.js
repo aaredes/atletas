@@ -13,11 +13,11 @@ let dados = [
       titulo: "Rebeca Andrade",
       descricao: "Rebeca Andrade é uma ginasta artística brasileira que conquistou o coração dos brasileiros e se tornou um dos maiores nomes do esporte nacional. Com sua força, determinação e talento inegável, Rebeca já coleciona diversas medalhas em competições nacionais e internacionais, incluindo o ouro olímpico.",
       link: "https://pt.wikipedia.org/wiki/Rebeca_Andrade"
-    }
+    },
     {
-    titulo: "Tatiana Weston-Webb",
-    descricao: "Tatiana Weston-Webb é uma surfista profissional brasileira-americana que conquistou o mundo do surfe com sua habilidade e determinação. Ela é conhecida por suas manobras poderosas e sua presença carismática nas competições. Tatiana já conquistou diversas vitórias em campeonatos importantes, incluindo uma medalha olímpica.",
-    link: "https://pt.wikipedia.org/wiki/Tatiana_Weston-Webb"
+      titulo: "Tatiana Weston-Webb",
+      descricao: "Tatiana Weston-Webb é uma surfista profissional brasileira-americana que conquistou o mundo do surfe com sua habilidade e determinação. Ela é conhecida por suas manobras poderosas e sua presença carismática nas competições. Tatiana já conquistou diversas vitórias em campeonatos importantes, incluindo uma medalha olímpica.",
+      link: "https://pt.wikipedia.org/wiki/Tatiana_Weston-Webb"
     }
   ];
     
